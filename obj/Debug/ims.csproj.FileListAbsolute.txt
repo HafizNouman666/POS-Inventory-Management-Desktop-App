@@ -1,0 +1,120 @@
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.csproj.AssemblyReference.cache
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.categories.resources
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.HomeScreen.resources
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.login.resources
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.MDI.resources
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.Products.resources
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.Properties.Resources.resources
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.PurchaseInvoice.resources
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.PurchaseInvoiceDetails.resources
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.Sample.resources
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.Sample2.resources
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.setting.resources
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.Stocks.resources
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.Supplier.resources
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.Users.resources
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.csproj.GenerateResource.cache
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.csproj.CoreCompileInputs.cache
+C:\Users\abc\Desktop\ims\ims\bin\Debug\ims.exe.config
+C:\Users\abc\Desktop\ims\ims\bin\Debug\ims.exe
+C:\Users\abc\Desktop\ims\ims\bin\Debug\ims.pdb
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.exe
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.pdb
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.Sales.resources
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.ProductPricing.resources
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.categories.resources
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.HomeScreen.resources
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.login.resources
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.MDI.resources
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.ProductPricing.resources
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.Products.resources
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.Properties.Resources.resources
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.PurchaseInvoice.resources
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.PurchaseInvoiceDetails.resources
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.Sales.resources
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.SalesReport.resources
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.Sample.resources
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.Sample2.resources
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.setting.resources
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.Stocks.resources
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.Supplier.resources
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.Users.resources
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.csproj.GenerateResource.cache
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.csproj.CoreCompileInputs.cache
+C:\Users\The One\source\repos\ims\ims\bin\Debug\ims.exe.config
+C:\Users\The One\source\repos\ims\ims\bin\Debug\ims.exe
+C:\Users\The One\source\repos\ims\ims\bin\Debug\ims.pdb
+C:\Users\The One\source\repos\ims\ims\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\The One\source\repos\ims\ims\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\The One\source\repos\ims\ims\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\The One\source\repos\ims\ims\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\The One\source\repos\ims\ims\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\The One\source\repos\ims\ims\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\The One\source\repos\ims\ims\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\The One\source\repos\ims\ims\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\The One\source\repos\ims\ims\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\The One\source\repos\ims\ims\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\The One\source\repos\ims\ims\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\The One\source\repos\ims\ims\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\The One\source\repos\ims\ims\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\The One\source\repos\ims\ims\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\The One\source\repos\ims\ims\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\The One\source\repos\ims\ims\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\The One\source\repos\ims\ims\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\The One\source\repos\ims\ims\bin\Debug\stdole.dll
+C:\Users\The One\source\repos\ims\ims\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.csproj.CopyComplete
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.exe
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.pdb
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.csproj.AssemblyReference.cache
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.viewSalesInvoices.resources
+C:\Users\The One\source\repos\ims\ims\bin\Debug\Guna.UI2.dll
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.SplashScreen.resources
+D:\Full_Project_Backup_2\ims\ims\bin\Debug\ims.exe.config
+D:\Full_Project_Backup_2\ims\ims\bin\Debug\ims.exe
+D:\Full_Project_Backup_2\ims\ims\bin\Debug\ims.pdb
+D:\Full_Project_Backup_2\ims\ims\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Full_Project_Backup_2\ims\ims\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Full_Project_Backup_2\ims\ims\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Full_Project_Backup_2\ims\ims\bin\Debug\CrystalDecisions.Shared.dll
+D:\Full_Project_Backup_2\ims\ims\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Full_Project_Backup_2\ims\ims\bin\Debug\Guna.UI2.dll
+D:\Full_Project_Backup_2\ims\ims\bin\Debug\ShockwaveFlashObjects.dll
+D:\Full_Project_Backup_2\ims\ims\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Full_Project_Backup_2\ims\ims\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Full_Project_Backup_2\ims\ims\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Full_Project_Backup_2\ims\ims\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Full_Project_Backup_2\ims\ims\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Full_Project_Backup_2\ims\ims\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Full_Project_Backup_2\ims\ims\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Full_Project_Backup_2\ims\ims\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Full_Project_Backup_2\ims\ims\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Full_Project_Backup_2\ims\ims\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Full_Project_Backup_2\ims\ims\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Full_Project_Backup_2\ims\ims\bin\Debug\stdole.dll
+D:\Full_Project_Backup_2\ims\ims\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Full_Project_Backup_2\ims\ims\obj\Debug\ims.csproj.AssemblyReference.cache
+D:\Full_Project_Backup_2\ims\ims\obj\Debug\ims.categories.resources
+D:\Full_Project_Backup_2\ims\ims\obj\Debug\ims.HomeScreen.resources
+D:\Full_Project_Backup_2\ims\ims\obj\Debug\ims.login.resources
+D:\Full_Project_Backup_2\ims\ims\obj\Debug\ims.MDI.resources
+D:\Full_Project_Backup_2\ims\ims\obj\Debug\ims.ProductPricing.resources
+D:\Full_Project_Backup_2\ims\ims\obj\Debug\ims.Products.resources
+D:\Full_Project_Backup_2\ims\ims\obj\Debug\ims.Properties.Resources.resources
+D:\Full_Project_Backup_2\ims\ims\obj\Debug\ims.PurchaseInvoice.resources
+D:\Full_Project_Backup_2\ims\ims\obj\Debug\ims.PurchaseInvoiceDetails.resources
+D:\Full_Project_Backup_2\ims\ims\obj\Debug\ims.Sales.resources
+D:\Full_Project_Backup_2\ims\ims\obj\Debug\ims.SalesReport.resources
+D:\Full_Project_Backup_2\ims\ims\obj\Debug\ims.Sample.resources
+D:\Full_Project_Backup_2\ims\ims\obj\Debug\ims.Sample2.resources
+D:\Full_Project_Backup_2\ims\ims\obj\Debug\ims.setting.resources
+D:\Full_Project_Backup_2\ims\ims\obj\Debug\ims.SplashScreen.resources
+D:\Full_Project_Backup_2\ims\ims\obj\Debug\ims.Stocks.resources
+D:\Full_Project_Backup_2\ims\ims\obj\Debug\ims.Supplier.resources
+D:\Full_Project_Backup_2\ims\ims\obj\Debug\ims.Users.resources
+D:\Full_Project_Backup_2\ims\ims\obj\Debug\ims.viewSalesInvoices.resources
+D:\Full_Project_Backup_2\ims\ims\obj\Debug\ims.csproj.GenerateResource.cache
+D:\Full_Project_Backup_2\ims\ims\obj\Debug\ims.csproj.CoreCompileInputs.cache
+D:\Full_Project_Backup_2\ims\ims\obj\Debug\ims.csproj.CopyComplete
+D:\Full_Project_Backup_2\ims\ims\obj\Debug\ims.exe
+D:\Full_Project_Backup_2\ims\ims\obj\Debug\ims.pdb
